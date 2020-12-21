@@ -1,0 +1,88 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+.bo {
+	background: #fff;
+}
+
+.h1 {
+	color: #075dfb;
+    font-size: 20px;
+	text-decoration: none;	
+    font-family: montserrat 500;	
+}
+
+.textin {
+	font-size: 40px;
+	font-family: montserrat 500;
+}
+
+.but1 {
+	position: absolute;
+	color: black;
+	background-color: white;
+	font-size: 14px;
+	width: 216px;
+	height: 46px;
+	top: 570px;
+	left: 944px;
+	border: 0px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 46px;
+}
+
+.but2 {
+	position: absolute;
+	font-size: 14px ;
+	top: 1400px;
+	left: 1000px;
+	color: black;
+	background-color: white;
+	width: 216px;
+	height: 46px;
+	border: 0px;
+	text-align: center;
+	text-decoration: none;
+	line-height: 46px;
+}
+
+.div1 {
+	content: "";
+	display: block;    
+	width: 1000px;
+	height: 574px;    
+	top: 0;      
+	left: 0;   
+	background: transparent;
+	background-image: linear-gradient(to top, black, white);
+	opacity: 0.6;
+}
+
+.dt1 {
+	position: absolute;
+	font-size: 16px;
+	background-color: #075dfb;
+	width: 500px;
+	height: 314px;
+}
+
+.dt2 {
+	position: absolute;
+	font-size: 16px;
+	padding-left: 500px;
+	background-color: #075dfb;
+	width: 500px;
+	height: 314px;
+}
+
+.p1 {
+	padding-top: 70px;
+	padding-left: 200px;
+	color: white;
+}
+
+.p2 {
+	padding-top: 70px;
+	padding-left: 500px;
+	color: white;
+}
